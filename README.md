@@ -5,4 +5,15 @@ Contains four perspectives: the game itself, the production company, the media e
 
 Based mainly on Metacritic data and SQL.
 
+## **Result Examplic Presentation**
+
+![Image Text](https://github.com/KIDult2226/AIDM-7360/blob/main/Images/Game.png)
+
+![Image Text](https://github.com/KIDult2226/AIDM-7360/blob/main/Images/Developer.png)
+
+![Image Text](https://github.com/KIDult2226/AIDM-7360/blob/main/Images/ALL%20Analysis.png)
+
+![Image Text](https://github.com/KIDult2226/AIDM-7360/blob/main/Images/SpecificTime.png)
+
+
 HKBU School of Communication AIDM-7360 Project @ Lord of Sham Shui Po
